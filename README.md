@@ -4,4 +4,4 @@
 Запуск скрипта:
 python src/ioc_extract.py
 
-Отчёт REPORT.md
+Отчёт будет оформлен в формате Markdown (REPORT.md).
